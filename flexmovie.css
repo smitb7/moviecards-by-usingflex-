@@ -1,0 +1,63 @@
+.pagemain{
+    width: 100%;
+    height: 1300px;
+    border: 3px solid red;
+    background-color: blanchedalmond;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   
+    
+    
+}
+.postermain{
+    width: 450px;
+    height: 600px;
+    border: 1px solid black;
+    background-color: rgb(250,240,230);
+    /* margin: auto; */
+    box-shadow:rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;;
+    border-radius: 10px;
+   
+    
+   
+
+}
+.imgdiv{
+    width: 450px;
+    height: 480px;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+.poster{
+    width: 100%;
+    height: 100%;
+}
+.headingdiv{
+    width: 300px;
+    height: 40px;
+    border: 1px solid black;
+    margin: auto;
+    
+}
+
+.textdiv{
+    width: 150px;
+    height: 20px;
+    border: 1px solid black;
+    margin: auto;
+}
+.buttondiv{
+    width: 80px;
+    height: 25px;
+    border: 1px solid blue;
+    margin: auto;
+    margin-top: 10px;
+}
+.btn{
+    background-color: rgb(34, 54, 100);
+    color: white;
+    border-radius: 10px;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
+}
